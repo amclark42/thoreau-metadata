@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-12-03</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:48:40Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Pm to Gowing’s swamp &amp; Hawlock meadows, I improve the dry weather to examine the middle of G’s swamp. There is in the middle an open pool 20 or 30 feet in diameter nearly full of sphagnum &amp; green froth on the surface (frog-spittle) and what other plants I could not see on account of the danger in standing on the quaking ground. Then a dense border a rod or more wide of a peculiar rush (?) with clusters of seed vessels 3 together now going to seed a yel. green –forming an abrupt edge next the water this one dense bed of quaking sphagnum- in which I sink 18 inches in water upheld by its matted roots where I fear to break through- On this the spatulate sundew abounds. This is marked by the paths of muskrats.</p><p>	Next comes half a dozen rods wide a dense bed of Andromeda Calyculata The A. polifolia mingled with it- the rusty cotton grass-cranberries the common &amp; also V. Oxycoccus-pitcher plants- sedge 7 a few young speuce &amp; larch here &amp; there – All on sphagnum –which forms little hillocks about the stems of the Andromeda.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-08-23 Gowing swamp</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-12-03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:48:40Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Pm to Gowing’s swamp &amp; Hawlock meadows, I improve the dry weather to examine the middle of G’s swamp. There is in the middle an open pool 20 or 30 feet in diameter nearly full of sphagnum &amp; green froth on the surface (frog-spittle) and what other plants I could not see on account of the danger in standing on the quaking ground. Then a dense border a rod or more wide of a peculiar rush (?) with clusters of seed vessels 3 together now going to seed a yel. green –forming an abrupt edge next the water this one dense bed of quaking sphagnum- in which I sink 18 inches in water upheld by its matted roots where I fear to break through- On this the spatulate sundew abounds. This is marked by the paths of muskrats.</p>
+         <p>	Next comes half a dozen rods wide a dense bed of Andromeda Calyculata The A. polifolia mingled with it- the rusty cotton grass-cranberries the common &amp; also V. Oxycoccus-pitcher plants- sedge 7 a few young speuce &amp; larch here &amp; there – All on sphagnum –which forms little hillocks about the stems of the Andromeda.”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.291 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

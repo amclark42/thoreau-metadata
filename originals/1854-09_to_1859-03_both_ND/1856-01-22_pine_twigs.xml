@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-06</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:53:03Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“He [unidentified, rabbit-like animal] had first sheared off the needles that were in the way “,” and gnawed off the sides of cheeks of the twig to come at the stem of the cone “,” which as usual was cut by successive cuts as with a knife “,” while bending it. One or two small “,” perhaps dead “,” certainly unripe ones were taken off an left unopened. I find that many of those young pines are now full of unopened cones “,” which apparently will be two years old next summer “,” and these the squirrel now eats. There are al some of them open “,” perhaps on the most thrifty twigs.”</p><p>PE 10, pg. 128-129 / 4 January-23 April 1856 / NNPM MA 1302:26 / T vol. # XX / PDF # XIV / JVIII</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1856-01-22 pine twigs</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-06</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:53:03Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“He [unidentified, rabbit-like animal] had first sheared off the needles that were in the way, and gnawed off the sides of cheeks of the twig to come at the stem of the cone, which as usual was cut by successive cuts as with a knife, while bending it. One or two small, perhaps dead, certainly unripe ones were taken off an left unopened. I find that many of those young pines are now full of unopened cones, which apparently will be two years old next summer, and these the squirrel now eats. There are al some of them open, perhaps on the most thrifty twigs.”</p>
+         <p>PE 10, pg. 128-129 / 4 January-23 April 1856 / NNPM MA 1302:26 / T vol. # XX / PDF # XIV / JVIII</p>
+      </body>
+   </text>
+</TEI>

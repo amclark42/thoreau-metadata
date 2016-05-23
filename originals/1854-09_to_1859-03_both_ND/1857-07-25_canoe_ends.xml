@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-29</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:15Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“As near as I could <hi rend="italic" xml:space="preserve">see </hi>“,” and <hi rend="italic" xml:space="preserve">understand </hi>him [the St. Francis Indian] and Polis “,” they first lay the bark flat on the ground “,” outside up “,” and two of the top rails “,” the inside and thickest ones “,” already connected with cross-bars “,” upon it “,” in order to get the form; and “,” with logs and rocks to keep the bark in place “,” they bend up the birch “,” cutting down slits in the edges from within three feet of the ends and perpendicularly on all sides about the rails “,” making a square corner at the ground; and a row of stakes three feet high is then driven into the ground all around “,” to hold the bark up in its place. They next lift the frame “,” <hi rend="italic">i.e.</hi> two rails connected by cross-bars “,” to the proper height “,” and sew the bark strongly to the rails with spruce roots every six inches “,” the thread passing around the rail and also <hi rend="italic">through</hi> the ends of the cross-bars “,” and sew on strips of bark to protect the sides in the middle. The canoes is as yet carried out square down [image 1] at the ends (not [image 2]) “,” and is perfectly flat on the bottom. (This canoe had advances thus far.)</p><p>PE 12, pg. 492-493 / 2 April-31 July 1857/ NNPM MA 1302:29 / T vol. # XXIII / PDF # XV / JIX </p><p>Notes: 2 images</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1857-07-25 canoe ends</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-29</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:15Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“As near as I could <hi rend="italic" xml:space="preserve">see </hi>, and <hi rend="italic" xml:space="preserve">understand </hi>him [the St. Francis Indian] and Polis, they first lay the bark flat on the ground, outside up, and two of the top rails, the inside and thickest ones, already connected with cross-bars, upon it, in order to get the form; and, with logs and rocks to keep the bark in place, they bend up the birch, cutting down slits in the edges from within three feet of the ends and perpendicularly on all sides about the rails, making a square corner at the ground; and a row of stakes three feet high is then driven into the ground all around, to hold the bark up in its place. They next lift the frame, <hi rend="italic">i.e.</hi> two rails connected by cross-bars, to the proper height, and sew the bark strongly to the rails with spruce roots every six inches, the thread passing around the rail and also <hi rend="italic">through</hi> the ends of the cross-bars, and sew on strips of bark to protect the sides in the middle. The canoes is as yet carried out square down [image 1] at the ends (not [image 2]), and is perfectly flat on the bottom. (This canoe had advances thus far.)</p>
+         <p>PE 12, pg. 492-493 / 2 April-31 July 1857/ NNPM MA 1302:29 / T vol. # XXIII / PDF # XV / JIX </p>
+         <p>Notes: 2 images</p>
+      </body>
+   </text>
+</TEI>

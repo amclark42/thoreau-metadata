@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-31</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:45Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I noticed first to my surprise that the river was all alive with leaping fish- their heads seen continually darted aboce water- &amp; they were large fish too- looking up I found that the whole atmosphere over the river was full of shad flies. It was a <hi rend="italic" xml:space="preserve">Great Flight of Ephemerae </hi>It was not so when I landed an hour &amp; a half before. They extended as high as I could see. It was like a dense snow storm, and all (with very few exceptions) flying as with one consent up the stream. Many coupled in the air &amp; many more with their bodies curved. They reach a mile or more from the stone heaps to the mouth of the assabet- but were densest where there were woods on both sides- whether they came out of them- or they made the air more still for them- Those I examined had 3 very long streamers behind the 2 outside about 1 ¼ inches.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-06-02 shad flies</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-31</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:45Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I noticed first to my surprise that the river was all alive with leaping fish- their heads seen continually darted aboce water- &amp; they were large fish too- looking up I found that the whole atmosphere over the river was full of shad flies. It was a <hi rend="italic" xml:space="preserve">Great Flight of Ephemerae </hi>It was not so when I landed an hour &amp; a half before. They extended as high as I could see. It was like a dense snow storm, and all (with very few exceptions) flying as with one consent up the stream. Many coupled in the air &amp; many more with their bodies curved. They reach a mile or more from the stone heaps to the mouth of the assabet- but were densest where there were woods on both sides- whether they came out of them- or they made the air more still for them- Those I examined had 3 very long streamers behind the 2 outside about 1 ¼ inches.”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.172 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-11-13</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:48:03Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“On the hot sand of the new road at Beck stows headed toward the water a rod or more of had <hi rend="italic" xml:space="preserve">some </hi>green conferva? On its shell and body- what is prob. Cistuda Blandingii- Length of upper shell 6 ½ inches breadth behind 4 5/8 –Tail beyond shell 2 ¼ . Did not see it shut its box; kept running back to the posterior margin of the 3<hi rend="superscript">rd</hi> dorsal plate- Ran out its head further &amp; oftener than usual. The spots pale yellow or buff. Upper half of head &amp; neck blackish the former quite smooth for 1 5/8 inches &amp; finely sprinkled with yellowish spots, the latter warty. The snout lighter with fine perpendicular black marks- Eyes large? irides dull green golden. Under <hi rend="italic" xml:space="preserve">jaw and throat clear chrome yellow. </hi> Under parts of neck &amp; roots of fore legs duller yellow- inner parts behind duller yellow still. Fore legs with black scales more or less yellow spotted above; at root &amp; beneath pale yellow &amp; yellowish- Hind legs uniformly black above 7 but little lighter beneath. Tail black all round. No red or orange about the animal- No hook or notch to jaw Plantain some days and gnaphalium ap 2 or 3 days.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-07-06 turtle jaw 2</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-13</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:48:03Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“On the hot sand of the new road at Beck stows headed toward the water a rod or more of had <hi rend="italic" xml:space="preserve">some </hi>green conferva? On its shell and body- what is prob. Cistuda Blandingii- Length of upper shell 6 ½ inches breadth behind 4 5/8 –Tail beyond shell 2 ¼ . Did not see it shut its box; kept running back to the posterior margin of the 3<hi rend="superscript">rd</hi> dorsal plate- Ran out its head further &amp; oftener than usual. The spots pale yellow or buff. Upper half of head &amp; neck blackish the former quite smooth for 1 5/8 inches &amp; finely sprinkled with yellowish spots, the latter warty. The snout lighter with fine perpendicular black marks- Eyes large? irides dull green golden. Under <hi rend="italic" xml:space="preserve">jaw and throat clear chrome yellow. </hi> Under parts of neck &amp; roots of fore legs duller yellow- inner parts behind duller yellow still. Fore legs with black scales more or less yellow spotted above; at root &amp; beneath pale yellow &amp; yellowish- Hind legs uniformly black above 7 but little lighter beneath. Tail black all round. No red or orange about the animal- No hook or notch to jaw Plantain some days and gnaphalium ap 2 or 3 days.”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.222 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

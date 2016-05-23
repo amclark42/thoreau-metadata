@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-11-19</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:48:13Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Again I am attracted by the Clam shell reach of the river running E &amp; W- as seen from Hubbard’s fields- now beginning to be smoothed as in the fall- First next the meadow is the broad dark green rank of pickerel weeds &amp;c &amp;c (polygonum &amp;c) then the light reflecting edging of pads -&amp; then the smooth still could reflecting water. My thoughts are driven inward- even as clouds and trees are reflected in the smooth still water- There is an inwardness even in the mosquitos hum- while I am picking blueberries in the dank wood”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-07-15 meadow and water</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:48:13Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Again I am attracted by the Clam shell reach of the river running E &amp; W- as seen from Hubbard’s fields- now beginning to be smoothed as in the fall- First next the meadow is the broad dark green rank of pickerel weeds &amp;c &amp;c (polygonum &amp;c) then the light reflecting edging of pads -&amp; then the smooth still could reflecting water. My thoughts are driven inward- even as clouds and trees are reflected in the smooth still water- There is an inwardness even in the mosquitos hum- while I am picking blueberries in the dank wood”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.231 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

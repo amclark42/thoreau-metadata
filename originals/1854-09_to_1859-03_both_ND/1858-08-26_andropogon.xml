@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-18</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:56:13Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Two interesting tall purplish grasses appear to be the prevailing ones now in dry and sterile neglected fields and hillsides “,” –<hi rend="italic">andropogon furcatus</hi> “,” forked beard grass “,” and apparently <hi rend="italic">Andropogon scoparius</hi> “,” purple wood grass “,” though the last appears to have three awns like an <hi rend="italic">Aristida</hi>. The first is a very tall and slender-culmed grass “,” with four or five pruple finger-like spikes “,” raying upward from the top. It is very abundant on the hillside behind Peter’s The other is also quite slender “,” two to three or four feet high “,” growing in tufts and somewhat curving “,” also commonly purple and with pretty purple stigmas like the last “,” and it has purple anthers. When out of bloom “,” its appressed spikes are recurving and have a whitish hairy or fuzzy look. These are the prevailing conspicuous flowers where I walk this afternoon in dry ground. I have sympathy with them because they are despised by the farmer and…”</p><p>2 images</p><p>INCOMPLETE</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-08-26 andropogon</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-18</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:56:13Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Two interesting tall purplish grasses appear to be the prevailing ones now in dry and sterile neglected fields and hillsides, –<hi rend="italic">andropogon furcatus</hi>, forked beard grass, and apparently <hi rend="italic">Andropogon scoparius</hi>, purple wood grass, though the last appears to have three awns like an <hi rend="italic">Aristida</hi>. The first is a very tall and slender-culmed grass, with four or five pruple finger-like spikes, raying upward from the top. It is very abundant on the hillside behind Peter’s The other is also quite slender, two to three or four feet high, growing in tufts and somewhat curving, also commonly purple and with pretty purple stigmas like the last, and it has purple anthers. When out of bloom, its appressed spikes are recurving and have a whitish hairy or fuzzy look. These are the prevailing conspicuous flowers where I walk this afternoon in dry ground. I have sympathy with them because they are despised by the farmer and…”</p>
+         <p>2 images</p>
+         <p>INCOMPLETE</p>
+      </body>
+   </text>
+</TEI>

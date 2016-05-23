@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-28</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:10Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“The callitriche is most forward a foot or more long with its delicate or pretty cup like whorls of leaves resting on the surface. I see no signs of a blossom. What is that narrow tooth-leafed 7 red stemmed plant which has grown nearly as much in the water? Crosswise. Then there is the cress next underway. Yet on the whole I think the columbine in the most favorable places about even with these. The latter have been less checked the last 4 or 5 days.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-04-19 tooth leafed red stemmed plant</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-28</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:10Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“The callitriche is most forward a foot or more long with its delicate or pretty cup like whorls of leaves resting on the surface. I see no signs of a blossom. What is that narrow tooth-leafed 7 red stemmed plant which has grown nearly as much in the water? Crosswise. Then there is the cress next underway. Yet on the whole I think the columbine in the most favorable places about even with these. The latter have been less checked the last 4 or 5 days.”</p>
+         <p>"XV   /   9 March-18 August 1853   /   NNPM MA 1302:21   /   PE 6, p.72 vol.8; Torrey JV, p.#"</p>
+      </body>
+   </text>
+</TEI>

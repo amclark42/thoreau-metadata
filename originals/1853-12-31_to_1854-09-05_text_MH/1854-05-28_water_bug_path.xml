@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-30</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:38Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“At the <hi rend="italic" xml:space="preserve">old </hi>bridge at the hill- the water being quite smooth I saw a water bug cross straight from the S to the N. side- about 6 rods furrowing the water in a waving line there being no other insects near him on the surface. It took but about a minute. It was an interesting sight- proving that this little insect whose eyes are hardly raised above the plane of the water sees, or is cognizant of, the opposite shore. I have no doubt that they cross with ease &amp; rapidity lakes a mile wide. It looked like an adventurous voyage for it. Probably he is in danger from fishy- monsters- though it must be difficult for a fish to catch one.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-05-28 water bug path</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-30</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:38Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“At the <hi rend="italic" xml:space="preserve">old </hi>bridge at the hill- the water being quite smooth I saw a water bug cross straight from the S to the N. side- about 6 rods furrowing the water in a waving line there being no other insects near him on the surface. It took but about a minute. It was an interesting sight- proving that this little insect whose eyes are hardly raised above the plane of the water sees, or is cognizant of, the opposite shore. I have no doubt that they cross with ease &amp; rapidity lakes a mile wide. It looked like an adventurous voyage for it. Probably he is in danger from fishy- monsters- though it must be difficult for a fish to catch one.”</p>
+         <p>"XV   /   9 March-18 August 1853   /   NNPM MA 1302:21   /   PE 6, p.159 vol.8; Torrey JV, p.#"</p>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-19</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:57:32Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I also see on Sunset Interval a large cake a rod square and a foot thick with more than a foot of soil attached beneath “,” which “,” by its own weight resting high and dry there “,” has bent very considerably. In one great cake there just like this “,” I see a fence-post with three holes in it standing upright “,” and perhaps the whole of it has been brought away in the soil beneath. It does not appear where it came from. Looking at the edge of one of these cakes “,” I notice some bubbles “,” seen edgewise “,” in the form of some buttons or of an inverted Moorish dome [image]. These are they which when you look down on them appear thus: [image]</p><p>PE 14, pg. 447/ 9 November 1858-7 April 1859 / NNPM MA 1302:34 / T vol. # XXVIII / PDF # XVII / JXI</p><p>2 images</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1859-02-14 ice cakes</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:57:32Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I also see on Sunset Interval a large cake a rod square and a foot thick with more than a foot of soil attached beneath, which, by its own weight resting high and dry there, has bent very considerably. In one great cake there just like this, I see a fence-post with three holes in it standing upright, and perhaps the whole of it has been brought away in the soil beneath. It does not appear where it came from. Looking at the edge of one of these cakes, I notice some bubbles, seen edgewise, in the form of some buttons or of an inverted Moorish dome [image]. These are they which when you look down on them appear thus: [image]</p>
+         <p>PE 14, pg. 447/ 9 November 1858-7 April 1859 / NNPM MA 1302:34 / T vol. # XXVIII / PDF # XVII / JXI</p>
+         <p>2 images</p>
+      </body>
+   </text>
+</TEI>

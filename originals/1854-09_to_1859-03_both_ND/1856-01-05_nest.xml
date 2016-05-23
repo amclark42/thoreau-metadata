@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-06</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:52:43Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Found on a young red maple near the water “,” in Hubbard’s riverside grove “,” a nest “,” perhaps a size bigger than a summer yellowbird’s “,” chiefly of bark shreds “,” bound and lined with lint and a little of something like dried hickory blossoms. A little feather “,” yellow at the extremity “,” attached to the outside. It was on a slanting twig or small branch about eighteen feet high “,” and I shook it down. The rim of fine shreds of grape-vine bark chiefly “,” the outer edge being covered with considerable of the droppings of the young birds. I thougt it the same kind with that found December 30<hi rend="superscript">th</hi> <hi rend="italic">ult.</hi> Can it be a redstart “,” or is one of the vireos possibly? Or a goldfinch? Which would account for the yellow-tipped feather.”</p><p>PE 10, pg. 89 / 4 January-23 April 1856 / NNPM MA 1302:26 / T vol. # XX / PDF # XIV / JVIII</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1856-01-05 nest</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-06</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:52:43Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Found on a young red maple near the water, in Hubbard’s riverside grove, a nest, perhaps a size bigger than a summer yellowbird’s, chiefly of bark shreds, bound and lined with lint and a little of something like dried hickory blossoms. A little feather, yellow at the extremity, attached to the outside. It was on a slanting twig or small branch about eighteen feet high, and I shook it down. The rim of fine shreds of grape-vine bark chiefly, the outer edge being covered with considerable of the droppings of the young birds. I thougt it the same kind with that found December 30<hi rend="superscript">th</hi> 
+            <hi rend="italic">ult.</hi> Can it be a redstart, or is one of the vireos possibly? Or a goldfinch? Which would account for the yellow-tipped feather.”</p>
+         <p>PE 10, pg. 89 / 4 January-23 April 1856 / NNPM MA 1302:26 / T vol. # XX / PDF # XIV / JVIII</p>
+      </body>
+   </text>
+</TEI>

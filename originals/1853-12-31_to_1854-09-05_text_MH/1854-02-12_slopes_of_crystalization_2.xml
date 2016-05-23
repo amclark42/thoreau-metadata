@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>unknown title</title><author>unknown author</author></titleStmt><editionStmt><edition><date>unknown date</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:46:20Z</date><name>unknown author</name></change></listChange></revisionDesc></teiHeader><text><body><p>“The bottom of its chamber was barely raised above the water &amp; the roof was hung with icicles. The sun being low I see as I skate reflected from the surface of the ice flakes of rain bow somewhat like cobwebs where the great slopes of the crystalization fall at the right angle-six inches or a foot across- but at so small an angle with the horizon that they had seem absolutely flat &amp; level before. Think of this kind of mosaic &amp; tessellation for your floor. A floor made up of surfaces not absolutely level-(though level to the touch of the feet &amp; to the noon day eye-(composed of crystals variously set) but just enough inclined to reflect the colors of the rain-bow when the sun gets low. See where a muskrat yesterday brought up clams through a hole in the ice over the middle of the river &amp; left their great violet tinted shells on the edge of the ice- Sometimes break the hinge.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-02-12 slopes of crystalization 2</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>unknown date</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by unknown author</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:46:20Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“The bottom of its chamber was barely raised above the water &amp; the roof was hung with icicles. The sun being low I see as I skate reflected from the surface of the ice flakes of rain bow somewhat like cobwebs where the great slopes of the crystalization fall at the right angle-six inches or a foot across- but at so small an angle with the horizon that they had seem absolutely flat &amp; level before. Think of this kind of mosaic &amp; tessellation for your floor. A floor made up of surfaces not absolutely level-(though level to the touch of the feet &amp; to the noon day eye-(composed of crystals variously set) but just enough inclined to reflect the colors of the rain-bow when the sun gets low. See where a muskrat yesterday brought up clams through a hole in the ice over the middle of the river &amp; left their great violet tinted shells on the edge of the ice- Sometimes break the hinge.”</p>
+         <p>"XVI   /  19 August 1853-12 February 1854    /   NNPM MA 1302:22   /   PE 7, p.285 vol.7; Torrey JV &amp; JVI, p.#"</p>
+      </body>
+   </text>
+</TEI>

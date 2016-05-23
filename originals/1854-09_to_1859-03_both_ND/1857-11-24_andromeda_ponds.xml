@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-08</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:20Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Cold Thanksgiving weather again “,” the pools freezing. The first or northernmost Andromeda Pond “,” considering the main portion of this isthmus “,” is surrounded “,” except at the isthmus “,” by dry hills “,” twenty-five to forty high perhaps “,” covered with young oaks. Its interior “,” or far the greater part of the whole “,” is filled with a uniformly dense and level bed of brown andromeda “,” in which I detect nothing else from the hills except some white cotton-grass waving over it. Between the Andromeda and the hills “,” there is a border “,” from one to two rods wide “,” of coarse and now yellowish sedge all the way round “,” except “,” of course “,” at the isthmus “,” and part of the way “,” just within the edge of the andromeda “,” mixed with it “,” a second inner border of gray bushes “,” chiefly “,” I suppose “,” blueberry “,” etc. “,” with a few small birches “,” maples “,” pines “,” etc. As I remember “,” it lies <hi rend="italic">somewhat</hi> thus: --[image]</p><p>PE 12, pg. 200 / 31 July-25 November 1857/ NNPM MA 1302:30 / T vol. # XXIV / PDF # XVI / JIX &amp; JX</p><p>-Andromeda Ponds</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1857-11-24 andromeda ponds</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-08</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:20Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Cold Thanksgiving weather again, the pools freezing. The first or northernmost Andromeda Pond, considering the main portion of this isthmus, is surrounded, except at the isthmus, by dry hills, twenty-five to forty high perhaps, covered with young oaks. Its interior, or far the greater part of the whole, is filled with a uniformly dense and level bed of brown andromeda, in which I detect nothing else from the hills except some white cotton-grass waving over it. Between the Andromeda and the hills, there is a border, from one to two rods wide, of coarse and now yellowish sedge all the way round, except, of course, at the isthmus, and part of the way, just within the edge of the andromeda, mixed with it, a second inner border of gray bushes, chiefly, I suppose, blueberry, etc., with a few small birches, maples, pines, etc. As I remember, it lies <hi rend="italic">somewhat</hi> thus: --[image]</p>
+         <p>PE 12, pg. 200 / 31 July-25 November 1857/ NNPM MA 1302:30 / T vol. # XXIV / PDF # XVI / JIX &amp; JX</p>
+         <p>-Andromeda Ponds</p>
+      </body>
+   </text>
+</TEI>

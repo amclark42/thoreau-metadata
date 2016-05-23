@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-08</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:46Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I see the fish hawk again […] Island. As it flies low “,” directly over my head “,” I see that its body is white beneath “,” and the white on the forward side of the wings beneath “,” if extended across the breast “,” would form a regular crescent. Its wings do not form a regular curve in front “,” but an abrupt angle. They are loose and broad at tips. This bird goes fishing slowly down one side of the river and up again on the other “,” forty to sixty feet high “,” continually posing itself almost or quite stationary “,” with its head to the northwest wind “,” and looking down “,” flapping its wings enough to keep its place “,” sometimes stationary for about a minute. It is not shy. This boisterous weather is the time to see it.”</p><p>PE 13, pg. 385-386 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-04-28 fish hawk</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-08</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:46Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I see the fish hawk again […] Island. As it flies low, directly over my head, I see that its body is white beneath, and the white on the forward side of the wings beneath, if extended across the breast, would form a regular crescent. Its wings do not form a regular curve in front, but an abrupt angle. They are loose and broad at tips. This bird goes fishing slowly down one side of the river and up again on the other, forty to sixty feet high, continually posing itself almost or quite stationary, with its head to the northwest wind, and looking down, flapping its wings enough to keep its place, sometimes stationary for about a minute. It is not shy. This boisterous weather is the time to see it.”</p>
+         <p>PE 13, pg. 385-386 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p>
+      </body>
+   </text>
+</TEI>

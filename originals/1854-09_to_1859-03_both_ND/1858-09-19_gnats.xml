@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-19</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:56:24Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“As I stand on the shore of the most westerly Cassandra Pond but one “,” I see in the air between me and the sun those interesting swarms of minute light-colored gnats “,” looking like motes in the sun. These may be allied to the winter gnat of Kirby and Spence. Do they not first appear with cooler and frosty weather “,” when we have had a slight foretaste of winter? Then in the clear “,” cool air they are seen to dance. These are about an eighth of an inch long “,” with a greenish body and two light-colored plumes in front; the wings not so long as the body. So I think they are different from those over the river in the spring. I see a dozen of these choirs within two or three rods “,” their centres about six feet above the surface of the water Andromeda. These separate communities are narrow horizontally and long vertically “,” about eighteen inches wide and densest in the middle “,” regularly thinning to nothing at the edges. These individualy are constantly gyrating up and down “,” cutting figures of 8 like the water-bug “,” but keeping nearly about the same place. It is to me a very agreeable reminder of cooler weather.”</p><p>PE 14, pg. 168-169/ 9 July 1858-9 November 1858 / NNPM MA 1302:33 / T vol. # XXVII / PDF # XVII / JXI</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-09-19 gnats</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:56:24Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“As I stand on the shore of the most westerly Cassandra Pond but one, I see in the air between me and the sun those interesting swarms of minute light-colored gnats, looking like motes in the sun. These may be allied to the winter gnat of Kirby and Spence. Do they not first appear with cooler and frosty weather, when we have had a slight foretaste of winter? Then in the clear, cool air they are seen to dance. These are about an eighth of an inch long, with a greenish body and two light-colored plumes in front; the wings not so long as the body. So I think they are different from those over the river in the spring. I see a dozen of these choirs within two or three rods, their centres about six feet above the surface of the water Andromeda. These separate communities are narrow horizontally and long vertically, about eighteen inches wide and densest in the middle, regularly thinning to nothing at the edges. These individualy are constantly gyrating up and down, cutting figures of 8 like the water-bug, but keeping nearly about the same place. It is to me a very agreeable reminder of cooler weather.”</p>
+         <p>PE 14, pg. 168-169/ 9 July 1858-9 November 1858 / NNPM MA 1302:33 / T vol. # XXVII / PDF # XVII / JXI</p>
+      </body>
+   </text>
+</TEI>

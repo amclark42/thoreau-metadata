@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-29</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:54:43Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Where I crossed the river on the roughish white ice “,” there were coarse ripple-marks two or three feet apart and convex tot the south or up-stream “,” extending quite across “,” and many spots of black ice a foot wide “,” more or less in the midst of the white “,” where probably was water yesterday. The water “,” apparently “,” had been blown southerly on to the ice already formed “,” and hence the ripple-marks.”</p><p>PE 11, pg. 164 / 7 September 1856-1 April 1857/ NNPM MA 1302:28 / T vol. # XXII / PDF # XV / JIX </p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1856-12-06 ice ripples</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-29</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:54:43Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Where I crossed the river on the roughish white ice, there were coarse ripple-marks two or three feet apart and convex tot the south or up-stream, extending quite across, and many spots of black ice a foot wide, more or less in the midst of the white, where probably was water yesterday. The water, apparently, had been blown southerly on to the ice already formed, and hence the ripple-marks.”</p>
+         <p>PE 11, pg. 164 / 7 September 1856-1 April 1857/ NNPM MA 1302:28 / T vol. # XXII / PDF # XV / JIX </p>
+      </body>
+   </text>
+</TEI>

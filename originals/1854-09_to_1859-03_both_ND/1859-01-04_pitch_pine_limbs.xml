@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-19</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:57:00Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“At the same time the lowermost small black and dead horizontal limbs near the ground “,” where there is least wind and jar “,” –these almost exclusively “,”—say for six or eight feet “,” are covered with upright walls of snow five or six times their own height and zigzagging with them like the Wall of China; or like great white caterpillars they lie along them “,” these snowy sloths; or rather it is a labyrinth “,” a sort of cobweb “,” of broad white belts in the air. Only a dim twilight struggles through to this lower region “,” and the sight of these snowy walls or labyrinths suggests a rare stillness “,” freedom from win and jar. If you try to stoop and wind your way there “,” you get your neck and ears full of snow. [image] I can’t draw it. That is “,” for each dead pine branch you have a thin flat branch of snow resting on it “,” an exaggeration of the former. It is a still white labyrinth of snowy purity “,” and you can look far into its recesses under the green and snowy canopy “,” –a labyrinth of which “,” perchance “,” a rabbit may have the clue. I noticed one pitch pine about three feet high so snowed up “,” and its branches all drooping “,” it looked like a draped statue or a white-ant hill.”</p><p>PE 14, pg. 389-390/ 9 November 1858-7 April 1859 / NNPM MA 1302:34 / T vol. # XXVIII / PDF # XVII / JXI</p><p>With 04_01_1858_pitch_pines_01-03</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1859-01-04 pitch pine limbs</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-19</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:57:00Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“At the same time the lowermost small black and dead horizontal limbs near the ground, where there is least wind and jar, –these almost exclusively, —say for six or eight feet, are covered with upright walls of snow five or six times their own height and zigzagging with them like the Wall of China; or like great white caterpillars they lie along them, these snowy sloths; or rather it is a labyrinth, a sort of cobweb, of broad white belts in the air. Only a dim twilight struggles through to this lower region, and the sight of these snowy walls or labyrinths suggests a rare stillness, freedom from win and jar. If you try to stoop and wind your way there, you get your neck and ears full of snow. [image] I can’t draw it. That is, for each dead pine branch you have a thin flat branch of snow resting on it, an exaggeration of the former. It is a still white labyrinth of snowy purity, and you can look far into its recesses under the green and snowy canopy, –a labyrinth of which, perchance, a rabbit may have the clue. I noticed one pitch pine about three feet high so snowed up, and its branches all drooping, it looked like a draped statue or a white-ant hill.”</p>
+         <p>PE 14, pg. 389-390/ 9 November 1858-7 April 1859 / NNPM MA 1302:34 / T vol. # XXVIII / PDF # XVII / JXI</p>
+         <p>With 04_01_1858_pitch_pines_01-03</p>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-29</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:54:23Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Just before “,” and in the shadow of “,” the cloud “,” I saw “,” advancing majerstically with wide circles over the meadow flood “,” a fish hawk and “,” apparently “,” a black eagle (maybe a young white-head). The first “,” with slender curved wings and silvery breast “,” four or five hundred feet high “,” watching the water while he circled slowly southwesterly. What a vision that could detect a fish at that distance! The latter “,” with broad black wings and broad tail “,” thus: [image] hovered only about one hundred feet high; evidently a species “,” and what else but an eagle.”</p><p>PE 11, pg. 22 / 23 April-6 September 1856 / NNPM MA 1302:27 / T vol. # XXI / PDF # XV / JVIII &amp; JIX </p><p>Location: “Up river to Clamshell”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1856-08-24 black eagle tail</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-29</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:54:23Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Just before, and in the shadow of, the cloud, I saw, advancing majerstically with wide circles over the meadow flood, a fish hawk and, apparently, a black eagle (maybe a young white-head). The first, with slender curved wings and silvery breast, four or five hundred feet high, watching the water while he circled slowly southwesterly. What a vision that could detect a fish at that distance! The latter, with broad black wings and broad tail, thus: [image] hovered only about one hundred feet high; evidently a species, and what else but an eagle.”</p>
+         <p>PE 11, pg. 22 / 23 April-6 September 1856 / NNPM MA 1302:27 / T vol. # XXI / PDF # XV / JVIII &amp; JIX </p>
+         <p>Location: “Up river to Clamshell”</p>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-30</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:44Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Their grub is a foster child of the oak. I see equally if not more remarkable &amp; regular ones on a black shrub- oak of this form attached to a leaf-green-a core like this being filled with air they burst with a puff when pressed. I see marks of a frost last night in sproutland hollow- young white oaks &amp; hickories &amp; some other oaks even have been touched &amp; though not yet black, their leaves are crisped 7 come off.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-06-01 grub REVIEW 2</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-30</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:44Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Their grub is a foster child of the oak. I see equally if not more remarkable &amp; regular ones on a black shrub- oak of this form attached to a leaf-green-a core like this being filled with air they burst with a puff when pressed. I see marks of a frost last night in sproutland hollow- young white oaks &amp; hickories &amp; some other oaks even have been touched &amp; though not yet black, their leaves are crisped 7 come off.”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.170 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

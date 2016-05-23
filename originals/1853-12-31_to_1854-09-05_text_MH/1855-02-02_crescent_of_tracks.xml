@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-12-15</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:49:24Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“This last half-inch of snow, which fell in the night, is just enough to track animals on the ice by. All about the Hill and Rock I see the tracks of rabbits which have run back and forth close to the shore repeatedly since the night. In the case of the rabbit the fore feet are further apart than the hind ones, the first say four or five inches to the outside, the last two or three. They are generally not quite regular, but one of the fore feet a little in advance of the other, and so with one of the hind feet. There is an interval of about sicteen inches between each four tracks. Sometimes they are in a curve or crescent, all touching.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1855-02-02 crescent of tracks</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-12-15</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:49:24Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“This last half-inch of snow, which fell in the night, is just enough to track animals on the ice by. All about the Hill and Rock I see the tracks of rabbits which have run back and forth close to the shore repeatedly since the night. In the case of the rabbit the fore feet are further apart than the hind ones, the first say four or five inches to the outside, the last two or three. They are generally not quite regular, but one of the fore feet a little in advance of the other, and so with one of the hind feet. There is an interval of about sicteen inches between each four tracks. Sometimes they are in a curve or crescent, all touching.”</p>
+         <p>"XVIII / 3 September 1854-12 May 1855 / NNPM MA 1302:24 / PE 9, p.163 vol. 8; Torrey JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

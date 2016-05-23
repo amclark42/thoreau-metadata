@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-11-29</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:14Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I go along the sandy road through a region of small hills about half a mile from the sea “,” between slight gray fences “,” either post and rail “,” or slanting rails “,” a foot apart “” resting on two crossed stakes “,” the rails of unequal length “,” looking agreeably loose and irregular.”</p><p>PE 12, pg. 425 / 2 April-31 July 1857/ NNPM MA 1302:29 / T vol. # XXIII / PDF # XV / JIX </p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1857-06-15 fences</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-29</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:14Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I go along the sandy road through a region of small hills about half a mile from the sea, between slight gray fences, either post and rail, or slanting rails, a foot apart “” resting on two crossed stakes, the rails of unequal length, looking agreeably loose and irregular.”</p>
+         <p>PE 12, pg. 425 / 2 April-31 July 1857/ NNPM MA 1302:29 / T vol. # XXIII / PDF # XV / JIX </p>
+      </body>
+   </text>
+</TEI>

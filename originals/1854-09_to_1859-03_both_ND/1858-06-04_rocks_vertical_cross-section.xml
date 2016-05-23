@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-08</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:52Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“We observed that the rocks were remarkably smoothed “,” almost polished and rounded “,” and also scratched. The scratches run form about north-northwest to south-southeast. The sides of the rocks often straight “,” upright walls “,” several rods long form north to south and five to ten feet high “,” with a very smooth “,” rounded edge. There were many of these long “,” straight “,” rounded walls of rock “,” especially on the northwest and west. Some smaller or lower ones were so rounded and smooth as to resemble at a little distance long-fallen trunks of trees. The rocks were “,” indeed “,” singularly worn on a great scale. Often a vertical cross-section would show some such profile as this: [image] as if they had been grooved with a tool of a corresponding edge. There were occasionally conspicuous masses and also veins of white quartz “,” and very common were bright-purple or wine-colored garnets imbedded in the rock “,” looking like berries in a pudding. In many parts “,” as on the southeast plateau especially “,” the rocks were regularly stratified “,” and split into regular horizontal slabs about a foot in thickness “,” projecting one beyond another like steps.”</p><p>PE 13, pg. 465 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-06-04 rocks vertical cross-section</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-08</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:52Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“We observed that the rocks were remarkably smoothed, almost polished and rounded, and also scratched. The scratches run form about north-northwest to south-southeast. The sides of the rocks often straight, upright walls, several rods long form north to south and five to ten feet high, with a very smooth, rounded edge. There were many of these long, straight, rounded walls of rock, especially on the northwest and west. Some smaller or lower ones were so rounded and smooth as to resemble at a little distance long-fallen trunks of trees. The rocks were, indeed, singularly worn on a great scale. Often a vertical cross-section would show some such profile as this: [image] as if they had been grooved with a tool of a corresponding edge. There were occasionally conspicuous masses and also veins of white quartz, and very common were bright-purple or wine-colored garnets imbedded in the rock, looking like berries in a pudding. In many parts, as on the southeast plateau especially, the rocks were regularly stratified, and split into regular horizontal slabs about a foot in thickness, projecting one beyond another like steps.”</p>
+         <p>PE 13, pg. 465 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p>
+      </body>
+   </text>
+</TEI>

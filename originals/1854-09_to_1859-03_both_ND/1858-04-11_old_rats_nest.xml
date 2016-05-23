@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-08</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:40Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I notice at the Conantum house “,” of which only the chimney and frame now stand “,” a triangular mass of rubbish “,” more than half a bushel “,” resting on the great mantel-tree against an angle in the chimney. It being mixed with clay “,” I at first thought it a mass of clay and straw mortar “,” to fill up with “,” but “,” looking further “,” I found it composed of corn-cobs “,” etc. “,” and the excrement probably of rats “,” of this form and size “,” and of pure clay “,” looking like the cells of an insect. Either the wharf rat or this country rat. They had anciently chosen this warm place for their nest and carried a great store of eatables thither “,” and the clay of the chimney “,” washing down “,” had incrusted the whole mass over. So this was an old rats’ nest as well as human nest “,” and so it is with every old house.”</p><p>PE 13, pg. 364 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-04-11 old rats nest</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-08</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:03Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:40Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I notice at the Conantum house, of which only the chimney and frame now stand, a triangular mass of rubbish, more than half a bushel, resting on the great mantel-tree against an angle in the chimney. It being mixed with clay, I at first thought it a mass of clay and straw mortar, to fill up with, but, looking further, I found it composed of corn-cobs, etc., and the excrement probably of rats, of this form and size, and of pure clay, looking like the cells of an insect. Either the wharf rat or this country rat. They had anciently chosen this warm place for their nest and carried a great store of eatables thither, and the clay of the chimney, washing down, had incrusted the whole mass over. So this was an old rats’ nest as well as human nest, and so it is with every old house.”</p>
+         <p>PE 13, pg. 364 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p>
+      </body>
+   </text>
+</TEI>

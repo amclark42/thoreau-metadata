@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-12-14</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:49:22Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I skated up as far as the boundary between Wayland and Sudbury just above Pelham’s Pond, to a point which a woman called about one and a half miles from Saxonville, about twelve miles, between 10 A.M. and one, quite leisurely. There I found the river open unexpectedly, as if there were a rapid there, and as I walked up it some three quarters of a mile, it was still open before me a half-mile further at least, or probably to the falls. Somewhat like this. All the open part, one and a half miles at least, was pretty closely hemmed in by highlands. I skated about twelve miles and walked three quarters of a mile further. It was, all the way that I skated, a chain of meadows, with the muskrat-houses still rising above the ice, commonly on the bank of the river, and marking it like smaller haycocks amid the large ones still left. I skated past three bridges above Sherman’s –or nine in all (?) –and walked to the fourth. The next, or fifth, would probably be that in middle of Saxonville. <hi rend="italic">Viz.</hi> Causeway bridges, Mill Village Bridge at Larned Brook, Pelham Pond Bridge, and that on road from Dudley Pond to Southboro and Marlboro.” </p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1855-01-31 frozen open river and bridges</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-12-14</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:49:22Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I skated up as far as the boundary between Wayland and Sudbury just above Pelham’s Pond, to a point which a woman called about one and a half miles from Saxonville, about twelve miles, between 10 A.M. and one, quite leisurely. There I found the river open unexpectedly, as if there were a rapid there, and as I walked up it some three quarters of a mile, it was still open before me a half-mile further at least, or probably to the falls. Somewhat like this. All the open part, one and a half miles at least, was pretty closely hemmed in by highlands. I skated about twelve miles and walked three quarters of a mile further. It was, all the way that I skated, a chain of meadows, with the muskrat-houses still rising above the ice, commonly on the bank of the river, and marking it like smaller haycocks amid the large ones still left. I skated past three bridges above Sherman’s –or nine in all (?) –and walked to the fourth. The next, or fifth, would probably be that in middle of Saxonville. <hi rend="italic">Viz.</hi> Causeway bridges, Mill Village Bridge at Larned Brook, Pelham Pond Bridge, and that on road from Dudley Pond to Southboro and Marlboro.” </p>
+         <p>"XVIII / 3 September 1854-12 May 1855 / NNPM MA 1302:24 / PE 9, p.156 vol. 8; Torrey JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

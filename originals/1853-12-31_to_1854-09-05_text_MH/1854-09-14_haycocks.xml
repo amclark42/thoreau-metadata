@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-12-03</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:48:51Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“The small polygonum is first particularly abundant in the bend above the coreopsis, but it is [in] greatest abundance and perfection at three quarters through the great meadow, in great beds one to three rods wide, very dense and now rising but six or eight inches or so above the water. It is now apparently in perfection. See swallow <hi rend="italic" xml:space="preserve">like </hi>a barn swallow. Counted twenty haycocks in the great meadow, on staddles, of various forms, - tied round with hay ropes. They are picturesque objects in the meadow.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-09-14 haycocks</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-12-03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:48:51Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“The small polygonum is first particularly abundant in the bend above the coreopsis, but it is [in] greatest abundance and perfection at three quarters through the great meadow, in great beds one to three rods wide, very dense and now rising but six or eight inches or so above the water. It is now apparently in perfection. See swallow <hi rend="italic" xml:space="preserve">like </hi>a barn swallow. Counted twenty haycocks in the great meadow, on staddles, of various forms, - tied round with hay ropes. They are picturesque objects in the meadow.”</p>
+         <p>"XVIII / 3 September 1854-12 May 1855 / NNPM MA 1302:24 / PE 9, p.41 vol. 8; Torrey JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

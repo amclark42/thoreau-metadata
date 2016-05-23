@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-10-26</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:50:17Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I see the small aster (?) in the woods with ink-black spots at the base of the leaves. (It looks like a <hi rend="italic">dumosus “</hi>,” but has no flowers.) <hi rend="italic">White</hi> oak acorns have many of them fallen. They are small and very neat light-green acorns “,” with small cups “,” commonly arranged two by two close together “,” often with a leaf growing between them; but frequently three “,” forming a little star with three rays “,” looking very artificial. Some black scrub oak acorns have fallen “,” and a few black oak acorns also have fallen.”</p><p>PE 9, pg. 35 / 3 Sept, 1854 – 12 May, 1855 / NNPM MA 1302:24 / T. # XVIII / PDF # XIII</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-09-11 white oak acorns</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-26</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:50:17Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I see the small aster (?) in the woods with ink-black spots at the base of the leaves. (It looks like a <hi rend="italic">dumosus “</hi>,” but has no flowers.) <hi rend="italic">White</hi> oak acorns have many of them fallen. They are small and very neat light-green acorns, with small cups, commonly arranged two by two close together, often with a leaf growing between them; but frequently three, forming a little star with three rays, looking very artificial. Some black scrub oak acorns have fallen, and a few black oak acorns also have fallen.”</p>
+         <p>PE 9, pg. 35 / 3 Sept, 1854 – 12 May, 1855 / NNPM MA 1302:24 / T. # XVIII / PDF # XIII</p>
+      </body>
+   </text>
+</TEI>

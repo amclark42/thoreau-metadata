@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-27</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:46:44Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I see now adays the ground being laid bare great cracks in the earth revealed 1/3 of an inch wide running with a crinkinling line for 20 rods or more through the pastures &amp; under the walls (frost cracks of the past winter- sometimes they are revealed through ice 4 or 5 inches thick over them. I observed today where a crack had divided a piece of bark lying over it with the same irregular &amp; finely meandering line <hi rend="italic">sometimes</hi> forking.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-03-04 cracks</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-27</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:46:44Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I see now adays the ground being laid bare great cracks in the earth revealed 1/3 of an inch wide running with a crinkinling line for 20 rods or more through the pastures &amp; under the walls (frost cracks of the past winter- sometimes they are revealed through ice 4 or 5 inches thick over them. I observed today where a crack had divided a piece of bark lying over it with the same irregular &amp; finely meandering line <hi rend="italic">sometimes</hi> forking.”</p>
+         <p>"XIV   /   8 January-8 March 1853   /   NNPM MA 1302:20   /   PE 5, p.27, vol. 8; Torrey JIV &amp; JV, p.#"</p>
+      </body>
+   </text>
+</TEI>

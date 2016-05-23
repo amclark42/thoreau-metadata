@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-10-30</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:51:41Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“As I paddle or push along by the edge of the thick ice which lines the shore “,” sometimes pushing against it “,” I Observe that it is curiously worn by the water into this form: [image] the dotted line being the water’s edge. The water has eaten into the edge of the ice just where its surface meets it (which may be one and a half inches beneath the top) “,” four or five inches more “,” leaving a sharp projecting eave above “,” while the lower part “,” five or six inches thick “,” being preserved hard by the water “,” slopes off to a very sharp edge from one to even four feet from the upper.”</p><p>PE 9, pg. 256-257 / 3 Sept 1854 – 12 May 1855 / NNPM MA 1302:24 / T vol. # XVIII / PDF # XIII</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1855-03-19 paddle through ice</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-30</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:51:41Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“As I paddle or push along by the edge of the thick ice which lines the shore, sometimes pushing against it, I Observe that it is curiously worn by the water into this form: [image] the dotted line being the water’s edge. The water has eaten into the edge of the ice just where its surface meets it (which may be one and a half inches beneath the top), four or five inches more, leaving a sharp projecting eave above, while the lower part, five or six inches thick, being preserved hard by the water, slopes off to a very sharp edge from one to even four feet from the upper.”</p>
+         <p>PE 9, pg. 256-257 / 3 Sept 1854 – 12 May 1855 / NNPM MA 1302:24 / T vol. # XVIII / PDF # XIII</p>
+      </body>
+   </text>
+</TEI>

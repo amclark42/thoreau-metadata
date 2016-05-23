@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2015-10-28</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:50:40Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“I had come along with a rapid whir and suddenly halted right against them “,” only two rods distant “,” and “,” as my eyes watered a little from skating against the wind “,” I was not convinced that they were birds till I had pulled out my glass and deliberately examined them. They sat and stood “,” three of them “,” perfectly still wit their heads erect “,” some darker feathers like ears “,” methinks “,” increasing their resemblance to scrabs [<hi rend="italic">sic</hi>] “,” as where a small limb is broken off. I was much surprised at the remarkable stillness they preserved “,” instinctively relying on the resemblance to the ground for their protection “,” i.e. withered grass “,” dry oak leaves “,” dead scrags “,” and broken twigs.”</p><p>PE 9, pg. 157 / 3 Sept 1854- 12 May 1855 / NNPM MA 1302:24 / T vol. # XVIII / PDF # XIII</p><p>Notes:</p><p>-date unclear (between 27 Jan and 31 Jan)</p><p>-“them” talking about partridges in snow</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1855-01-31 partridges</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-28</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:50:40Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“I had come along with a rapid whir and suddenly halted right against them, only two rods distant, and, as my eyes watered a little from skating against the wind, I was not convinced that they were birds till I had pulled out my glass and deliberately examined them. They sat and stood, three of them, perfectly still wit their heads erect, some darker feathers like ears, methinks, increasing their resemblance to scrabs [<hi rend="italic">sic</hi>], as where a small limb is broken off. I was much surprised at the remarkable stillness they preserved, instinctively relying on the resemblance to the ground for their protection, i.e. withered grass, dry oak leaves, dead scrags, and broken twigs.”</p>
+         <p>PE 9, pg. 157 / 3 Sept 1854- 12 May 1855 / NNPM MA 1302:24 / T vol. # XVIII / PDF # XIII</p>
+         <p>Notes:</p>
+         <p>-date unclear (between 27 Jan and 31 Jan)</p>
+         <p>-“them” talking about partridges in snow</p>
+      </body>
+   </text>
+</TEI>

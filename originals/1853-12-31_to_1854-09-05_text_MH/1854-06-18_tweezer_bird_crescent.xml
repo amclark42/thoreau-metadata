@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-11-05</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:56Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Examined as well as I could with the glass what I will call the <hi rend="italic">tweezer</hi> bird- / Tra-wee, shreea-shre / -raspingly I have heard perhaps as long as the Evergreen forest. It is slende- somewhat small vireo like bird- yellow &amp; yellowish all beneath- except a chesnutish (?) crescent on breast- with ap. a white spot on the wing- an certainly a yellow or greenish yellow back between wings. Keeping rather high in the trees- I could not see the general color of the upper-parts but thought it was dark olivaceous or maybe slaty. Can it be the blue-yellow-back warbler?</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-06-18 tweezer bird crescent</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-11-05</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:56Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Examined as well as I could with the glass what I will call the <hi rend="italic">tweezer</hi> bird- / Tra-wee, shreea-shre / -raspingly I have heard perhaps as long as the Evergreen forest. It is slende- somewhat small vireo like bird- yellow &amp; yellowish all beneath- except a chesnutish (?) crescent on breast- with ap. a white spot on the wing- an certainly a yellow or greenish yellow back between wings. Keeping rather high in the trees- I could not see the general color of the upper-parts but thought it was dark olivaceous or maybe slaty. Can it be the blue-yellow-back warbler?</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.208 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

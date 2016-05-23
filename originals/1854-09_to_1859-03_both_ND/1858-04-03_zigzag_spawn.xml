@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-08</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:55:36Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“When returning “,” we discovered “,” on the south side of the river “,” just at the old crossing-place from the Great Meadows “,” north of the ludwigia pool “,” a curious kind of spawn. It was white “,” each ovum about as big as a robin-shot or larger “,” with mostly a very minute white core “,” no black core “,” and these were agglutinated together in the form of zigzag hollow cylinders “,” two or three inches in diameter and one or two feet long “,” looking like a lady’s ruff or other muslin work “,” on the bottom or on roots and twigs of willow and button-bush “,” where the water was two or three feet deep. The greater part lay on the bottom “,” looking like a film “,” these cylinders being somewhat coiked about there. When you took it up “,” the two sides fell together “,” and it was flat in your hand like the leg of a stocking. In one…”</p><p>PE 13, pg. 349 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p><p>INCOMPLETE</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-04-03 zigzag spawn</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-08</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:55:36Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“When returning, we discovered, on the south side of the river, just at the old crossing-place from the Great Meadows, north of the ludwigia pool, a curious kind of spawn. It was white, each ovum about as big as a robin-shot or larger, with mostly a very minute white core, no black core, and these were agglutinated together in the form of zigzag hollow cylinders, two or three inches in diameter and one or two feet long, looking like a lady’s ruff or other muslin work, on the bottom or on roots and twigs of willow and button-bush, where the water was two or three feet deep. The greater part lay on the bottom, looking like a film, these cylinders being somewhat coiked about there. When you took it up, the two sides fell together, and it was flat in your hand like the leg of a stocking. In one…”</p>
+         <p>PE 13, pg. 349 / 25 November 1857-4 June 1858/ NNPM MA 1302:31 / T vol. # XXV / PDF # XVI / JX</p>
+         <p>INCOMPLETE</p>
+      </body>
+   </text>
+</TEI>

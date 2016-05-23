@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-12-03</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:48:45Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Was not that a meadow hen which I scared up in 2 places by the river side- of a dark brown like a small woodcock- though it flew <hi rend="italic" xml:space="preserve">straight </hi>&amp; low. I go along the flat Hosmer shore to Clamshell Hill- Thg sparganium seed balls beg. to brown &amp; come off in the hand- The Ammannia humilis is quite abundant on the denuded shore there- &amp; in John Hosmers meadow –now turned red. &amp; in John Hosmers meadow –now turned red. &amp; so detected –reddening the ground.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-08-30 meadow hen</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-12-03</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:48:45Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Was not that a meadow hen which I scared up in 2 places by the river side- of a dark brown like a small woodcock- though it flew <hi rend="italic" xml:space="preserve">straight </hi>&amp; low. I go along the flat Hosmer shore to Clamshell Hill- Thg sparganium seed balls beg. to brown &amp; come off in the hand- The Ammannia humilis is quite abundant on the denuded shore there- &amp; in John Hosmers meadow –now turned red. &amp; in John Hosmers meadow –now turned red. &amp; so detected –reddening the ground.”</p>
+         <p>"XVII   /   13 February-3 September 1854   /   NNPM MA 1302:23   /   PE 8, p.309 vol.8; Torrey JVI &amp; JVII, p.#"</p>
+      </body>
+   </text>
+</TEI>

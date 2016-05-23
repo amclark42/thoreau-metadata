@@ -5,155 +5,155 @@
 sCD=`pwd`
 cd 1853-12-31_to_1854-09-05_citations_MH/
 
-1854-02-17_rabbit_tracks[1]_info.txt 1854-02-17_rabbit_tracks_1_info.txt
-1854-02-17_rabbit_tracks[2]_info.txt 1854-02-17_rabbit_tracks_2_info.txt
-1854-02-18_birch_scale[1]_info.txt 1854-02-18_birch_scale_1_info.txt
-1854-02-18_nest[1]_info.txt 1854-02-18_nest_info.txt
-1854-02-21_birch_scale[2]_info.txt 1854-02-21_birch_scale_2_info.txt
-1854-02-21_fungus_covered_stump[1]_info.txt 1854-02-21_fungus_covered_stump_info.txt
-1854-02-23_driving_snow[1]_info.txt 1854-02-23_driving_snow_info.txt
-1854-02-23_snow_drift[1]_info.txt 1854-02-23_snow_drift_info.txt
-1854-02-24_snow_animal_tracks[1]_info.txt 1854-02-24_snow_animal_tracks_info.txt
-1854-02-26_white_pines[1]_info.txt 1854-02-26_white_pines_1_info.txt
-1854-02-26_white_pines[2]_info.txt 1854-02-26_white_pines_2_info.txt
-1854-02-27_rabbit_tail[1]_info.txt 1854-02-27_rabbit_tail_info.txt
-1854-02-28_ice_hollow[1]_info.txt 1854-02-28_ice_hollow_info.txt
-1854-03-04_cracks[1]_info.txt 1854-03-04_cracks_info.txt
-1854-03-04_fungus[1]_info.txt 1854-03-04_fungus_info.txt
-1854-03-05_crystals_on_pool[1]_info.txt 1854-03-05_crystals_on_pool_1_info.txt
-1854-03-05_crystals_on_pool[2]_info.txt 1854-03-05_crystals_on_pool_2_info.txt
-1854-03-05_water[1]_info.txt 1854-03-05_water_info.txt
-1854-03-08_cranberry_wreathe[1]_info.txt 1854-03-08_cranberry_wreathe_1_info.txt
-1854-03-08_cranberry_wreathe[2]_info.txt 1854-03-08_cranberry_wreathe_2_info.txt
-1854-03-10_skunk[1]_info.txt 1854-03-10_skunk_info.txt
-1854-03-10_skunk_tracks[1]_info.txt 1854-03-10_skunk_tracks_info.txt
-1854-03-18_catkins[1]_info.txt 1854-03-18_catkins_info.txt
-1854-03-18_icicles[1]_info.txt 1854-03-18_icicles_1_info.txt
-1854-03-18_icicles[2]_info.txt 1854-03-18_icicles_2_info.txt
-1854-03-22_icy_bridge[1]_info.txt 1854-03-22_icy_bridge_1_info.txt
-1854-03-22_icy_bridge[2]_info.txt 1854-03-22_icy_bridge_2_info.txt
-1854-03-29_black_beaked_divers[1]_info.txt 1854-03-29_black_beaked_divers_info.txt
-1854-03-29_white_gull[1]_info.txt 1854-03-29_white_gull_info.txt
-1854-04-01_young_pear_trees[1]_info.txt 1854-04-01_young_pear_trees_info.txt
-1854-04-19_tooth_leafed_red_stemmed_plant[1]_info.txt 1854-04-19_tooth_leafed_red_stemmed_plant_info.txt
-1854-04-23_eagle_flight_path[1]_info.txt 1854-04-23_eagle_flight_path_info.txt
-1854-04-23_eagle_wings[1]_info.txt 1854-04-23_eagle_wings_info.txt
-1854-04-24_unknown[1]_info.txt 1854-04-24_unknown_info.txt
-1854-04-29_blue_heron[1]_info.txt 1854-04-29_blue_heron_1_info.txt
-1854-04-29_blue_heron[2]_info.txt 1854-04-29_blue_heron_2_info.txt
-1854-05-01_brownish_flowered_sedge[1]_info.txt 1854-05-01_brownish_flowered_sedge_info.txt
-1854-05-01_shad_flies[1]_info.txt 1854-05-01_shad_flies_1_info.txt
-1854-05-01_shad_flies[2]_info.txt 1854-05-01_shad_flies_2_info.txt
-1854-05-05_red_maple[1]_info.txt 1854-05-05_red_maple_1_info.txt
-1854-05-10_red_maple[2]_info.txt 1854-05-10_red_maple_2_info.txt
-1854-05-16_oak_leaves[1]_info.txt 1854-05-16_oak_leaves_info.txt
-1854-05-16_pads[1]_info.txt 1854-05-16_pads_info.txt
-1854-05-17_turtle[1]_info.txt 1854-05-17_turtle_info.txt
-1854-05-17_turtle_bottom_mouth[1]_info.txt 1854-05-17_turtle_bottom_mouth_info.txt
-1854-05-17_turtle_head[1]_info.txt 1854-05-17_turtle_head_info.txt
-1854-05-22_unknown[2]_info.txt 1854-05-22_unknown_info.txt
-1854-05-27_cinnnamomea[1]_info.txt 1854-05-27_cinnnamomea_info.txt
-1854-05-28_water_bug_path[1]_info.txt 1854-05-28_water_bug_path_info.txt
-1854-05-29_fern_tufts[1]_info.txt 1854-05-29_fern_tufts_info.txt
-1854-06-01_biting_fly[1]_info.txt 1854-06-01_biting_fly_info.txt
-1854-06-01_grub_(review)[1]_info.txt 1854-06-01_grub_(review)_1_info.txt
-1854-06-01_grub_(review)[2]_info.txt 1854-06-01_grub_(review)_2_info.txt
-1854-06-02_shad_flies[1]_info.txt 1854-06-02_shad_flies_info.txt
-1854-06-02_stone_heap_edges[1]_info.txt 1854-06-02_stone_heap_edges_info.txt
-1854-06-13_geranium[1]_info.txt 1854-06-13_geranium_info.txt
-1854-06-16_leaf_lobes[1]_info.txt 1854-06-16_leaf_lobes_1_info.txt
-1854-06-16_leaf_lobes[2]_info.txt 1854-06-16_leaf_lobes_2_info.txt
-1854-06-18_snapping_turtle_egg_shell[1]_info.txt 1854-06-18_snapping_turtle_egg_shell_info.txt
-1854-06-18_snapping_turtle_nest[1]_info.txt 1854-06-18_snapping_turtle_nest_info.txt
-1854-06-18_tweezer_bird_crescent[1]_info.txt 1854-06-18_tweezer_bird_crescent_info.txt
-1854-07-01_pond_spawn[1]_info.txt 1854-07-01_pond_spawn_1_info.txt
-1854-07-01_pond_spawn[2]_info.txt 1854-07-01_pond_spawn_2_info.txt
-1854-07-06_turtle_head[1]_info.txt 1854-07-06_turtle_head_info.txt
-1854-07-06_turtle_jaw[1]_info.txt 1854-07-06_turtle_jaw_1_info.txt
-1854-07-06_turtle_jaw[2]_info.txt 1854-07-06_turtle_jaw_2_info.txt
-1854-07-06_yel_lily[1]_info.txt 1854-07-06_yel_lily_info.txt
-1854-07-07_floating_leaves[1]_info.txt 1854-07-07_floating_leaves_info.txt
-1854-07-08_stream_of_dollars[1]_info.txt 1854-07-08_stream_of_dollars_info.txt
-1854-07-11_spit_of_shining_pads[1]_info.txt 1854-07-11_spit_of_shining_pads_info.txt
-1854-07-12_lilium_Canadense[1]_info.txt 1854-07-12_lilium_Canadense_info.txt
-1854-07-15_meadow_and_water[1]_info.txt 1854-07-15_meadow_and_water_info.txt
-1854-07-16_polygala_sanguinea_head[1]_info.txt 1854-07-16_polygala_sanguinea_head_info.txt
-1854-07-22_zizania[1].txt 1854-07-22_zizania_info.txt
-1854-08-15_apple_tree[1]_info.txt 1854-08-15_apple_tree_info.txt
-1854-08-15_common_form_leaf[1]_info.txt 1854-08-15_common_form_leaf_info.txt
-1854-08-15_Pontederia_leaf_section[1]_info.txt 1854-08-15_Pontederia_leaf_section_info.txt
-1854-08-15_Rhubarb_fern_seed[1]_info.txt 1854-08-15_Rhubarb_fern_seed_info.txt
-1854-08-15_simple_leaf[1]_info.txt 1854-08-15_simple_leaf_info.txt
-1854-08-16_canoe_reflection[1]_info.txt 1854-08-16_canoe_reflection_info.txt
-1854-08-16_Dulichium_spathaceum[1]_info.txt 1854-08-16_Dulichium_spathaceum_info.txt
-1854-08-16_fuzzy_topped_sedge[1]_info.txt 1854-08-16_fuzzy_topped_sedge_info.txt
-1854-08-16_Lycoperdon_bovi[1]_info.txt 1854-08-16_Lycoperdon_bovi_info.txt
-1854-08-16_pear_formed_puff[1]_info.txt 1854-08-16_pear_formed_puff_info.txt
-1854-08-19_tortoise_scale[1]_info.txt 1854-08-19_tortoise_scale_1_info.txt
-1854-08-19_tortoise_scale[2]_info.txt 1854-08-19_tortoise_scale_2_info.txt
-1854-08-20_gibbous_fish_head[1]_info.txt 1854-08-20_gibbous_fish_head_info.txt
-1854-08-20_injured_fish_double_bladder[1]_info.txt 1854-08-20_injured_fish_double_bladder_info.txt
-1854-08-20_wood_pewee[1]_info.txt 1854-08-20_wood_pewee_info.txt
-1854-08-23_Gowing_swamp[1]_info.txt 1854-08-23_Gowing_swamp_info.txt
-1854-08-24_hawk_at_distance[1]_info.txt 1854-08-24_hawk_at_distance_info.txt
-1854-08-28_ferns_and_finer_grasses[1]_info.txt 1854-08-28_ferns_and_finer_grasses_info.txt
-1854-08-30_meadow_hen[1]_info.txt 1854-08-30_meadow_hen_info.txt
-1854-09-05_galls_on_twigs[1]_info.txt 1854-09-05_galls_on_twigs_info.txt
-1854-09-05_pear_shaped_cranberries[1]_info.txt 1854-09-05_pear_shaped_cranberries_info.txt
-1854-09-12_acorns[1]_info.txt 1854-09-12_acorns_1_info.txt
-1854-09-14_haycocks[1]_info.txt 1854-09-14_haycocks_info.txt
-1854-09-19_acorns[2]_info.txt 1854-09-19_acorns_2_info.txt
-1855-01-20_eddy[1]_info.txt 1855-01-20_eddy_info.txt
-1855-01-20_red_house[1]_info.txt 1855-01-20_red_house_info.txt
-1855-01-20_snow_on_trees[1]_info.txt 1855-01-20_snow_on_trees_info.txt
-1855-01-24_four_leaf_stalks[1]_info.txt 1855-01-24_four_leaf_stalks_info.txt
-1855-01-25_mouse_tracks[1]_info.txt 1855-01-25_mouse_tracks_1_info.txt
-1855-01-25_mouse_tracks[2]_info.txt 1855-01-25_mouse_tracks_2_info.txt
-1855-01-25_mouse_tracks[3]_info.txt 1855-01-25_mouse_tracks_3_info.txt
-1855-01-25_mouse_tracks[4]_info.txt 1855-01-25_mouse_tracks_4_info.txt
-1855-01-25_partridge_track[1]_info.txt 1855-01-25_partridge_track_info.txt
-1855-01-25_pine_cone_blossoms[1]_info.txt 1855-01-25_pine_cone_blossoms_1_info.txt
-1855-01-25_pine_cone_blossoms[2]_info.txt 1855-01-25_pine_cone_blossoms_2_info.txt
+mv 1854-02-17_rabbit_tracks[1]_info.txt 1854-02-17_rabbit_tracks_1_info.txt
+mv 1854-02-17_rabbit_tracks[2]_info.txt 1854-02-17_rabbit_tracks_2_info.txt
+mv 1854-02-18_birch_scale[1]_info.txt 1854-02-18_birch_scale_1_info.txt
+mv 1854-02-18_nest[1]_info.txt 1854-02-18_nest_info.txt
+mv 1854-02-21_birch_scale[2]_info.txt 1854-02-21_birch_scale_2_info.txt
+mv 1854-02-21_fungus_covered_stump[1]_info.txt 1854-02-21_fungus_covered_stump_info.txt
+mv 1854-02-23_driving_snow[1]_info.txt 1854-02-23_driving_snow_info.txt
+mv 1854-02-23_snow_drift[1]_info.txt 1854-02-23_snow_drift_info.txt
+mv 1854-02-24_snow_animal_tracks[1]_info.txt 1854-02-24_snow_animal_tracks_info.txt
+mv 1854-02-26_white_pines[1]_info.txt 1854-02-26_white_pines_1_info.txt
+mv 1854-02-26_white_pines[2]_info.txt 1854-02-26_white_pines_2_info.txt
+mv 1854-02-27_rabbit_tail[1]_info.txt 1854-02-27_rabbit_tail_info.txt
+mv 1854-02-28_ice_hollow[1]_info.txt 1854-02-28_ice_hollow_info.txt
+mv 1854-03-04_cracks[1]_info.txt 1854-03-04_cracks_info.txt
+mv 1854-03-04_fungus[1]_info.txt 1854-03-04_fungus_info.txt
+mv 1854-03-05_crystals_on_pool[1]_info.txt 1854-03-05_crystals_on_pool_1_info.txt
+mv 1854-03-05_crystals_on_pool[2]_info.txt 1854-03-05_crystals_on_pool_2_info.txt
+mv 1854-03-05_water[1]_info.txt 1854-03-05_water_info.txt
+mv 1854-03-08_cranberry_wreathe[1]_info.txt 1854-03-08_cranberry_wreathe_1_info.txt
+mv 1854-03-08_cranberry_wreathe[2]_info.txt 1854-03-08_cranberry_wreathe_2_info.txt
+mv 1854-03-10_skunk[1]_info.txt 1854-03-10_skunk_info.txt
+mv 1854-03-10_skunk_tracks[1]_info.txt 1854-03-10_skunk_tracks_info.txt
+mv 1854-03-18_catkins[1]_info.txt 1854-03-18_catkins_info.txt
+mv 1854-03-18_icicles[1]_info.txt 1854-03-18_icicles_1_info.txt
+mv 1854-03-18_icicles[2]_info.txt 1854-03-18_icicles_2_info.txt
+mv 1854-03-22_icy_bridge[1]_info.txt 1854-03-22_icy_bridge_1_info.txt
+mv 1854-03-22_icy_bridge[2]_info.txt 1854-03-22_icy_bridge_2_info.txt
+mv 1854-03-29_black_beaked_divers[1]_info.txt 1854-03-29_black_beaked_divers_info.txt
+mv 1854-03-29_white_gull[1]_info.txt 1854-03-29_white_gull_info.txt
+mv 1854-04-01_young_pear_trees[1]_info.txt 1854-04-01_young_pear_trees_info.txt
+mv 1854-04-19_tooth_leafed_red_stemmed_plant[1]_info.txt 1854-04-19_tooth_leafed_red_stemmed_plant_info.txt
+mv 1854-04-23_eagle_flight_path[1]_info.txt 1854-04-23_eagle_flight_path_info.txt
+mv 1854-04-23_eagle_wings[1]_info.txt 1854-04-23_eagle_wings_info.txt
+mv 1854-04-24_unknown[1]_info.txt 1854-04-24_unknown_info.txt
+mv 1854-04-29_blue_heron[1]_info.txt 1854-04-29_blue_heron_1_info.txt
+mv 1854-04-29_blue_heron[2]_info.txt 1854-04-29_blue_heron_2_info.txt
+mv 1854-05-01_brownish_flowered_sedge[1]_info.txt 1854-05-01_brownish_flowered_sedge_info.txt
+mv 1854-05-01_shad_flies[1]_info.txt 1854-05-01_shad_flies_1_info.txt
+mv 1854-05-01_shad_flies[2]_info.txt 1854-05-01_shad_flies_2_info.txt
+mv 1854-05-05_red_maple[1]_info.txt 1854-05-05_red_maple_1_info.txt
+mv 1854-05-10_red_maple[2]_info.txt 1854-05-10_red_maple_2_info.txt
+mv 1854-05-16_oak_leaves[1]_info.txt 1854-05-16_oak_leaves_info.txt
+mv 1854-05-16_pads[1]_info.txt 1854-05-16_pads_info.txt
+mv 1854-05-17_turtle[1]_info.txt 1854-05-17_turtle_info.txt
+mv 1854-05-17_turtle_bottom_mouth[1]_info.txt 1854-05-17_turtle_bottom_mouth_info.txt
+mv 1854-05-17_turtle_head[1]_info.txt 1854-05-17_turtle_head_info.txt
+mv 1854-05-22_unknown[2]_info.txt 1854-05-22_unknown_info.txt
+mv 1854-05-27_cinnnamomea[1]_info.txt 1854-05-27_cinnnamomea_info.txt
+mv 1854-05-28_water_bug_path[1]_info.txt 1854-05-28_water_bug_path_info.txt
+mv 1854-05-29_fern_tufts[1]_info.txt 1854-05-29_fern_tufts_info.txt
+mv 1854-06-01_biting_fly[1]_info.txt 1854-06-01_biting_fly_info.txt
+mv 1854-06-01_grub_\(review\)[1]_info.txt 1854-06-01_grub_REVIEW_1_info.txt
+mv 1854-06-01_grub_\(review\)[2]_info.txt 1854-06-01_grub_REVIEW_2_info.txt
+mv 1854-06-02_shad_flies[1]_info.txt 1854-06-02_shad_flies_info.txt
+mv 1854-06-02_stone_heap_edges[1]_info.txt 1854-06-02_stone_heap_edges_info.txt
+mv 1854-06-13_geranium[1]_info.txt 1854-06-13_geranium_info.txt
+mv 1854-06-16_leaf_lobes[1]_info.txt 1854-06-16_leaf_lobes_1_info.txt
+mv 1854-06-16_leaf_lobes[2]_info.txt 1854-06-16_leaf_lobes_2_info.txt
+mv 1854-06-18_snapping_turtle_egg_shell[1]_info.txt 1854-06-18_snapping_turtle_egg_shell_info.txt
+mv 1854-06-18_snapping_turtle_nest[1]_info.txt 1854-06-18_snapping_turtle_nest_info.txt
+mv 1854-06-18_tweezer_bird_crescent[1]_info.txt 1854-06-18_tweezer_bird_crescent_info.txt
+mv 1854-07-01_pond_spawn[1]_info.txt 1854-07-01_pond_spawn_1_info.txt
+mv 1854-07-01_pond_spawn[2]_info.txt 1854-07-01_pond_spawn_2_info.txt
+mv 1854-07-06_turtle_head[1]_info.txt 1854-07-06_turtle_head_info.txt
+mv 1854-07-06_turtle_jaw[1]_info.txt 1854-07-06_turtle_jaw_1_info.txt
+mv 1854-07-06_turtle_jaw[2]_info.txt 1854-07-06_turtle_jaw_2_info.txt
+mv 1854-07-06_yel_lily[1]_info.txt 1854-07-06_yel_lily_info.txt
+mv 1854-07-07_floating_leaves[1]_info.txt 1854-07-07_floating_leaves_info.txt
+mv 1854-07-08_stream_of_dollars[1]_info.txt 1854-07-08_stream_of_dollars_info.txt
+mv 1854-07-11_spit_of_shining_pads[1]_info.txt 1854-07-11_spit_of_shining_pads_info.txt
+mv 1854-07-12_lilium_Canadense[1]_info.txt 1854-07-12_lilium_Canadense_info.txt
+mv 1854-07-15_meadow_and_water[1]_info.txt 1854-07-15_meadow_and_water_info.txt
+mv 1854-07-16_polygala_sanguinea_head[1]_info.txt 1854-07-16_polygala_sanguinea_head_info.txt
+mv 1854-07-22_zizania[1].txt 1854-07-22_zizania_info.txt
+mv 1854-08-15_apple_tree[1]_info.txt 1854-08-15_apple_tree_info.txt
+mv 1854-08-15_common_form_leaf[1]_info.txt 1854-08-15_common_form_leaf_info.txt
+mv 1854-08-15_Pontederia_leaf_section[1]_info.txt 1854-08-15_Pontederia_leaf_section_info.txt
+mv 1854-08-15_Rhubarb_fern_seed[1]_info.txt 1854-08-15_Rhubarb_fern_seed_info.txt
+mv 1854-08-15_simple_leaf[1]_info.txt 1854-08-15_simple_leaf_info.txt
+mv 1854-08-16_canoe_reflection[1]_info.txt 1854-08-16_canoe_reflection_info.txt
+mv 1854-08-16_Dulichium_spathaceum[1]_info.txt 1854-08-16_Dulichium_spathaceum_info.txt
+mv 1854-08-16_fuzzy_topped_sedge[1]_info.txt 1854-08-16_fuzzy_topped_sedge_info.txt
+mv 1854-08-16_Lycoperdon_bovi[1]_info.txt 1854-08-16_Lycoperdon_bovi_info.txt
+mv 1854-08-16_pear_formed_puff[1]_info.txt 1854-08-16_pear_formed_puff_info.txt
+mv 1854-08-19_tortoise_scale[1]_info.txt 1854-08-19_tortoise_scale_1_info.txt
+mv 1854-08-19_tortoise_scale[2]_info.txt 1854-08-19_tortoise_scale_2_info.txt
+mv 1854-08-20_gibbous_fish_head[1]_info.txt 1854-08-20_gibbous_fish_head_info.txt
+mv 1854-08-20_injured_fish_double_bladder[1]_info.txt 1854-08-20_injured_fish_double_bladder_info.txt
+mv 1854-08-20_wood_pewee[1]_info.txt 1854-08-20_wood_pewee_info.txt
+mv 1854-08-23_Gowing_swamp[1]_info.txt 1854-08-23_Gowing_swamp_info.txt
+mv 1854-08-24_hawk_at_distance[1]_info.txt 1854-08-24_hawk_at_distance_info.txt
+mv 1854-08-28_ferns_and_finer_grasses[1]_info.txt 1854-08-28_ferns_and_finer_grasses_info.txt
+mv 1854-08-30_meadow_hen[1]_info.txt 1854-08-30_meadow_hen_info.txt
+mv 1854-09-05_galls_on_twigs[1]_info.txt 1854-09-05_galls_on_twigs_info.txt
+mv 1854-09-05_pear_shaped_cranberries[1]_info.txt 1854-09-05_pear_shaped_cranberries_info.txt
+mv 1854-09-12_acorns[1]_info.txt 1854-09-12_acorns_1_info.txt
+mv 1854-09-14_haycocks[1]_info.txt 1854-09-14_haycocks_info.txt
+mv 1854-09-19_acorns[2]_info.txt 1854-09-19_acorns_2_info.txt
+mv 1855-01-20_eddy[1]_info.txt 1855-01-20_eddy_info.txt
+mv 1855-01-20_red_house[1]_info.txt 1855-01-20_red_house_info.txt
+mv 1855-01-20_snow_on_trees[1]_info.txt 1855-01-20_snow_on_trees_info.txt
+mv 1855-01-24_four_leaf_stalks[1]_info.txt 1855-01-24_four_leaf_stalks_info.txt
+mv 1855-01-25_mouse_tracks[1]_info.txt 1855-01-25_mouse_tracks_1_info.txt
+mv 1855-01-25_mouse_tracks[2]_info.txt 1855-01-25_mouse_tracks_2_info.txt
+mv 1855-01-25_mouse_tracks[3]_info.txt 1855-01-25_mouse_tracks_3_info.txt
+mv 1855-01-25_mouse_tracks[4]_info.txt 1855-01-25_mouse_tracks_4_info.txt
+mv 1855-01-25_partridge_track[1]_info.txt 1855-01-25_partridge_track_info.txt
+mv 1855-01-25_pine_cone_blossoms[1]_info.txt 1855-01-25_pine_cone_blossoms_1_info.txt
+mv 1855-01-25_pine_cone_blossoms[2]_info.txt 1855-01-25_pine_cone_blossoms_2_info.txt
 #  1855-01-25_rabbit_tracks_1_info.txt
 #  1855-01-25_rabbit_tracks_2_info.txt
-1855-01-26_bending_trees[1]_info.txt 1855-01-26_bending_trees_info.txt
-1855-01-26_ice_organ_pipes[1]_info.txt 1855-01-26_ice_organ_pipes_info.txt
-1855-01-26_snow_prism[1]_info.txt 1855-01-26_snow_prism_info.txt
-1855-01-26_swans_down_snow[1]_info.txt 1855-01-26_swans_down_snow_info.txt
-1855-01-31_earlike_camoflage_feathers[1]_info.txt 1855-01-31_earlike_camoflage_feathers_info.txt
-1855-01-31_frozen_open_river_and_bridges[1]_info.txt 1855-01-31_frozen_open_river_and_bridges_info.txt
-1855-02-02_crescent_of_tracks[1]_info.txt 1855-02-02_crescent_of_tracks_info.txt
-1855-02-02_roundish_tracks[1]_info.txt 1855-02-02_roundish_tracks_info.txt
-1855-02-02_running_tracks[1]_info.txt 1855-02-02_running_tracks_info.txt
-1855-02-03_shallow_snow_drifts[1]_info.txt 1855-02-03_shallow_snow_drifts_info.txt
-1855-02-04_furrow_and_foot_tracks[1]_info.txt 1855-02-04_furrow_and_foot_tracks_info.txt
+mv 1855-01-26_bending_trees[1]_info.txt 1855-01-26_bending_trees_info.txt
+mv 1855-01-26_ice_organ_pipes[1]_info.txt 1855-01-26_ice_organ_pipes_info.txt
+mv 1855-01-26_snow_prism[1]_info.txt 1855-01-26_snow_prism_info.txt
+mv 1855-01-26_swans_down_snow[1]_info.txt 1855-01-26_swans_down_snow_info.txt
+mv 1855-01-31_earlike_camoflage_feathers[1]_info.txt 1855-01-31_earlike_camoflage_feathers_info.txt
+mv 1855-01-31_frozen_open_river_and_bridges[1]_info.txt 1855-01-31_frozen_open_river_and_bridges_info.txt
+mv 1855-02-02_crescent_of_tracks[1]_info.txt 1855-02-02_crescent_of_tracks_info.txt
+mv 1855-02-02_roundish_tracks[1]_info.txt 1855-02-02_roundish_tracks_info.txt
+mv 1855-02-02_running_tracks[1]_info.txt 1855-02-02_running_tracks_info.txt
+mv 1855-02-03_shallow_snow_drifts[1]_info.txt 1855-02-03_shallow_snow_drifts_info.txt
+mv 1855-02-04_furrow_and_foot_tracks[1]_info.txt 1855-02-04_furrow_and_foot_tracks_info.txt
 #  1855-02-04_skate_tracks_info.txt
-1855-02-04_trails_and_tracks[1]_info.txt 1855-02-04_trails_and_tracks_info.txt
-1855-02-10_shell_like_snow_drift[1]_info.txt 1855-02-10_shell_like_snow_drift_info.txt
-1855-02-12_mice_tracks[1]_info.txt 1855-02-12_mice_tracks_info.txt
-1855-02-13_partridge_hole[1]_info.txt 1855-02-13_partridge_hole_info.txt
-1855-02-13_partridge_tracks[1]_info.txt 1855-02-13_partridge_tracks_1_info.txt
-1855-02-13_partridge_tracks[2]_info.txt 1855-02-13_partridge_tracks_2_info.txt
-1855-02-13_partridge_wing_impressions[1]_info.txt 1855-02-13_partridge_wing_impressions_info.txt
-1855-02-13_white_rabbit_tracks[1]_info.txt 1855-02-13_white_rabbit_tracks_info.txt
-1855-02-22_ermine_weasel_tracks[1]_info.txt 1855-02-22_ermine_weasel_tracks_info.txt
-1855-02-24_hens_toes[1]_info.txt 1855-02-24_hens_toes_info.txt
-1855-02-28_holes_in_ice[1]_info.txt 1855-02-28_holes_in_ice_info.txt
-1855-02-28_icicle_terracing[1]_info.txt 1855-02-28_icicle_terracing_info.txt
-1855-02-28_pack_of_cakes[1]_info.txt 1855-02-28_pack_of_cakes_info.txt
-1855-02-28_spiral_bore_in_limb[1]_info.txt 1855-02-28_spiral_bore_in_limb_info.txt
-1855-03-01_bubbles_in_ice[1]_info.txt 1855-03-01_bubbles_in_ice_info.txt
-1855-03-01_icy_slopes[1]_info.txt 1855-03-01_icy_slopes_1_info.txt
-1855-03-02_coinlike_bubbles[1]_info.txt 1855-03-02_coinlike_bubbles_info.txt
-1855-03-02_icy_slopes[2]_info.txt 1855-03-02_icy_slopes_2_info.txt
-1855-03-02_scalloped_arrow_head[1]_info.txt 1855-03-02_scalloped_arrow_head_info.txt
-1855-03-03_ice_breaking_up[1]_info.txt 1855-03-03_ice_breaking_up_info.txt
-1855-03-03_pine_cone_core[1]_info.txt 1855-03-03_pine_cone_core_1_info.txt
-1855-03-03_pine_cone_core[2]_info.txt 1855-03-03_pine_cone_core_2_info.txt
-1855-03-07_handsome_pinecone[1]_info.txt 1855-03-07_handsome_pinecone_1_info.txt
-1855-03-07_handsome_pinecone[2]_info.txt 1855-03-07_handsome_pinecone_2_info.txt
-1855-03-07_mice_dropping[1]_info.txt 1855-03-07_mice_dropping_info.txt
-1855-03-09_reflected_view[1]_info.txt 1855-03-09_reflected_view_info.txt
-1855-03-14_cleared_branches[1]_info.txt 1855-03-14_cleared_branches_info.txt
+mv 1855-02-04_trails_and_tracks[1]_info.txt 1855-02-04_trails_and_tracks_info.txt
+mv 1855-02-10_shell_like_snow_drift[1]_info.txt 1855-02-10_shell_like_snow_drift_info.txt
+mv 1855-02-12_mice_tracks[1]_info.txt 1855-02-12_mice_tracks_info.txt
+mv 1855-02-13_partridge_hole[1]_info.txt 1855-02-13_partridge_hole_info.txt
+mv 1855-02-13_partridge_tracks[1]_info.txt 1855-02-13_partridge_tracks_1_info.txt
+mv 1855-02-13_partridge_tracks[2]_info.txt 1855-02-13_partridge_tracks_2_info.txt
+mv 1855-02-13_partridge_wing_impressions[1]_info.txt 1855-02-13_partridge_wing_impressions_info.txt
+mv 1855-02-13_white_rabbit_tracks[1]_info.txt 1855-02-13_white_rabbit_tracks_info.txt
+mv 1855-02-22_ermine_weasel_tracks[1]_info.txt 1855-02-22_ermine_weasel_tracks_info.txt
+mv 1855-02-24_hens_toes[1]_info.txt 1855-02-24_hens_toes_info.txt
+mv 1855-02-28_holes_in_ice[1]_info.txt 1855-02-28_holes_in_ice_info.txt
+mv 1855-02-28_icicle_terracing[1]_info.txt 1855-02-28_icicle_terracing_info.txt
+mv 1855-02-28_pack_of_cakes[1]_info.txt 1855-02-28_pack_of_cakes_info.txt
+mv 1855-02-28_spiral_bore_in_limb[1]_info.txt 1855-02-28_spiral_bore_in_limb_info.txt
+mv 1855-03-01_bubbles_in_ice[1]_info.txt 1855-03-01_bubbles_in_ice_info.txt
+mv 1855-03-01_icy_slopes[1]_info.txt 1855-03-01_icy_slopes_1_info.txt
+mv 1855-03-02_coinlike_bubbles[1]_info.txt 1855-03-02_coinlike_bubbles_info.txt
+mv 1855-03-02_icy_slopes[2]_info.txt 1855-03-02_icy_slopes_2_info.txt
+mv 1855-03-02_scalloped_arrow_head[1]_info.txt 1855-03-02_scalloped_arrow_head_info.txt
+mv 1855-03-03_ice_breaking_up[1]_info.txt 1855-03-03_ice_breaking_up_info.txt
+mv 1855-03-03_pine_cone_core[1]_info.txt 1855-03-03_pine_cone_core_1_info.txt
+mv 1855-03-03_pine_cone_core[2]_info.txt 1855-03-03_pine_cone_core_2_info.txt
+mv 1855-03-07_handsome_pinecone[1]_info.txt 1855-03-07_handsome_pinecone_1_info.txt
+mv 1855-03-07_handsome_pinecone[2]_info.txt 1855-03-07_handsome_pinecone_2_info.txt
+mv 1855-03-07_mice_dropping[1]_info.txt 1855-03-07_mice_dropping_info.txt
+mv 1855-03-09_reflected_view[1]_info.txt 1855-03-09_reflected_view_info.txt
+mv 1855-03-14_cleared_branches[1]_info.txt 1855-03-14_cleared_branches_info.txt
 
 cd ${sCD}

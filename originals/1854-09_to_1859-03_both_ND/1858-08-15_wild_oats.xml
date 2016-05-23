@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>Nick D'Amore</author></titleStmt><editionStmt><edition><date>2016-02-18</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:56:10Z</date><name>Nick D'Amore</name></change></listChange></revisionDesc></teiHeader><text><body><p>“The front-rank polygonum is apparently in prime “,” or perhaps not quite. Wild oats “,” apparently in prime. This is quite interesting and handsome “,” so tall and loose. The lower “,” spreading and loosely drooping “,” dangling or blown one side like a flag “,” staminate branches of its ample panicle are of a lively yellowish green “,” contrasting with the very distant upright pistillate branches “,” suggesting a spear with a small flag at the base of its head. It is our wild grain “,” unharvested.”</p><p>PE 14, pg. 105 / 9 July 1858-9 November 1858 / NNPM MA 1302:33 / T vol. # XXVII / PDF # XVII / JXI</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1858-08-15 wild oats</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2016-02-18</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by Nick D'Amore</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-21T00:50:04Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.0.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:56:10Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“The front-rank polygonum is apparently in prime, or perhaps not quite. Wild oats, apparently in prime. This is quite interesting and handsome, so tall and loose. The lower, spreading and loosely drooping, dangling or blown one side like a flag, staminate branches of its ample panicle are of a lively yellowish green, contrasting with the very distant upright pistillate branches, suggesting a spear with a small flag at the base of its head. It is our wild grain, unharvested.”</p>
+         <p>PE 14, pg. 105 / 9 July 1858-9 November 1858 / NNPM MA 1302:33 / T vol. # XXVII / PDF # XVII / JXI</p>
+      </body>
+   </text>
+</TEI>

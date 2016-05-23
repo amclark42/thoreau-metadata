@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>unknown title</title><author>unknown author</author></titleStmt><editionStmt><edition><date>unknown date</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:46:14Z</date><name>unknown author</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Just beyond the Bathing place I see the wreck of an ice fleet which yesterday morning must have been very handsome- It reminds me of a vast &amp; crowded fleet of sloops with large slanting sails all standing to the north- These sails are some of them the largest specimens of leaf-structure in ice that I have seen 8 or 9 inches long. Perhaps this structure is more apparent now they have been wasted so much- Their bases can be seen continuing quite through the level ice which has formed about them- as if the wind &amp; waves breaking up a thin ice had held it in that position while it froze in.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-02-12 ice fleet wreck</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>unknown date</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by unknown author</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:46:14Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Just beyond the Bathing place I see the wreck of an ice fleet which yesterday morning must have been very handsome- It reminds me of a vast &amp; crowded fleet of sloops with large slanting sails all standing to the north- These sails are some of them the largest specimens of leaf-structure in ice that I have seen 8 or 9 inches long. Perhaps this structure is more apparent now they have been wasted so much- Their bases can be seen continuing quite through the level ice which has formed about them- as if the wind &amp; waves breaking up a thin ice had held it in that position while it froze in.”</p>
+         <p>"XVI   /  19 August 1853-12 February 1854    /   NNPM MA 1302:22   /   PE 7, p.281 vol.7; Torrey JV &amp; JVI, p.#"</p>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>unknown title</title><author>unknown author</author></titleStmt><editionStmt><edition><date>unknown date</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:46:03Z</date><name>unknown author</name></change></listChange></revisionDesc></teiHeader><text><body><p>“Now (or a little earlier just after the thaw, when it began to freeze) is the time to go out &amp; see the ice organ pipes- I walk the whole length of the Cliffs just at the base of the rocks for this purpose-but is rather late-no water is flowing now. These great organ pipes are formed where the water flows over triangular projections of the rocks- The perpendicularity of the icicles contrasts strangely with the various angles of the rocks. Its is now quite cold &amp; in many places only a sharp spear of purest crystal which does not reach the rock below is left to tell of the water that has flowed here- These solid pipe-like icicles comonly unite by there sides &amp; form rows of pillars or irregular colonades run together betwen which here &amp; there you can insert your hand-revealing a peculiar internal structure, as of successive great drops. Thus behind these perpendicular pipes or congregated pillars or colonades run together are formed the prettiest little aisles or triangular alcoves with lichen-clad sides.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-01-11 ice organ pipes on cliffs</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>unknown date</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by unknown author</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:46:03Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“Now (or a little earlier just after the thaw, when it began to freeze) is the time to go out &amp; see the ice organ pipes- I walk the whole length of the Cliffs just at the base of the rocks for this purpose-but is rather late-no water is flowing now. These great organ pipes are formed where the water flows over triangular projections of the rocks- The perpendicularity of the icicles contrasts strangely with the various angles of the rocks. Its is now quite cold &amp; in many places only a sharp spear of purest crystal which does not reach the rock below is left to tell of the water that has flowed here- These solid pipe-like icicles comonly unite by there sides &amp; form rows of pillars or irregular colonades run together betwen which here &amp; there you can insert your hand-revealing a peculiar internal structure, as of successive great drops. Thus behind these perpendicular pipes or congregated pillars or colonades run together are formed the prettiest little aisles or triangular alcoves with lichen-clad sides.”</p>
+         <p>"XVI   /  19 August 1853-12 February 1854    /   NNPM MA 1302:22   /   PE 7, p.236 vol. 7; Torrey JV &amp; JVI, p.#"</p>
+      </body>
+   </text>
+</TEI>

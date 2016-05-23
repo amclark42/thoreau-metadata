@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title/><author>mharty</author></titleStmt><editionStmt><edition><date>2015-10-28</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document</p></sourceDesc></fileDesc><encodingDesc><appInfo><application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2016-05-20T22:47:00Z</date><name>mharty</name></change></listChange></revisionDesc></teiHeader><text><body><p>“It is very cold &amp; freezing in this wind- The water has been blown quite across the Hubbards bridge causeway in some places 7 incrusted the road with ice. Before looking this way we had seen the whitened shore from the Lupine Hill. It is blown 7 dashes against the willows and incrusts them with ice sometimes to the height of 3 feet- with icicles shaped like bulls-horns- especially observable where many osiers stand together and from the more horizontal osiers &amp;c depend icicles 5 or 6 inches long very regularly looking exactly like coarse rakes- apparently not the result of melting but of the spray &amp; water blown or dashed upon them. Only more regular. A very wintry sight.”</p></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1854-03-18 icicles 2</title>
+            <author>Henry David Thoreau</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-10-28</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document written by mharty</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application when="2016-05-22T17:30:16Z"
+                         ident="convert_little_TEI_files.xslt"
+                         version="0.1.1">
+               <desc>
+                  <label>pass 1:</label>
+                  <list>
+                     <item>indent</item>
+                     <item>insert title</item>
+                     <item>correct author</item>
+                     <item>move time of OxGarage conversion</item>
+                     <item>convert those “,” things to just comma</item>
+                     <item>for MH text files, insert corresponding MH citation</item>
+                  </list>
+               </desc>
+            </application>
+            <application xml:id="docxtotei"
+                         ident="TEI_fromDOCX"
+                         version="2.15.0"
+                         when="2016-05-20T22:47:00Z">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>“It is very cold &amp; freezing in this wind- The water has been blown quite across the Hubbards bridge causeway in some places 7 incrusted the road with ice. Before looking this way we had seen the whitened shore from the Lupine Hill. It is blown 7 dashes against the willows and incrusts them with ice sometimes to the height of 3 feet- with icicles shaped like bulls-horns- especially observable where many osiers stand together and from the more horizontal osiers &amp;c depend icicles 5 or 6 inches long very regularly looking exactly like coarse rakes- apparently not the result of melting but of the spray &amp; water blown or dashed upon them. Only more regular. A very wintry sight.”</p>
+         <p>"XV   /   9 March-18 August 1853   /   NNPM MA 1302:21   /   PE 6, p.45 vol.8; Torrey JV, p.#"</p>
+      </body>
+   </text>
+</TEI>
