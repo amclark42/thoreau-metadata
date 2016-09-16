@@ -46,7 +46,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>“I notice my old skate-tracks like this: It is better skating today than yesterday. This is the sixth day of some kind of skating.”</p>
+	<p>“I notice my old skate-tracks like this: It is better skating today than yesterday. This is the sixth day of some kind of skating.”</p>
+	<p> / / / </p>
       </body>
    </text>
 </TEI>
