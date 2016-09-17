@@ -85,6 +85,7 @@
   
   <xsl:template match="p">
     <xsl:apply-templates/>
+    <xsl:text> </xsl:text>
   </xsl:template>
   
   <xsl:template match="p" mode="parse">
@@ -96,8 +97,22 @@
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
+  
+  <xsl:template match="hi">
+    <!-- the only two values of @rend are 'italic' and 'superscript' -->
+    <xsl:if test="@rend eq 'italic'">_</xsl:if>
+    <xsl:value-of select="."/>
+    <xsl:if test="@rend eq 'italic'">_</xsl:if>
+  </xsl:template>
+
+  <xsl:template match="lb">
+    <br/>
+  </xsl:template>
+  
+  <xsl:template match="*" priority="-0.1">
+    <xsl:message>If you loved me (<xsl:value-of select="name(.)"/>), you'd match me.</xsl:message>
+  </xsl:template>
 
 </xsl:stylesheet>
 
-<!--               <tr style="background-color: {if (position() mod 3 eq 0) then '#EDC' else '#EEE'};">
- -->
+<!-- tr style="background-color: {if (position() mod 3 eq 0) then '#EDC' else '#EEE'};" -->
